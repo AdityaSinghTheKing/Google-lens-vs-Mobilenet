@@ -1,0 +1,23 @@
+h4{
+    font-family: Georama;
+}
+.imageclass{
+    width: 300px;
+}
+#keybardimg{
+    width: 500;
+    
+}
+.coprightfooter{
+    bottom: 0;
+    color:black ;
+    width: 100%;
+    background-color:lightgrey ;
+    line-height: 3;
+    text-align: center;
+
+}
+h5{
+    font-family: Georama;
+    font-weight:bold;
+}
